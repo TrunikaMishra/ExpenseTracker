@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(255, 254, 254);
+    color: rgb(0, 0, 0);
+  }
+  
+  
+  img {
+      width: 1500px!important;
+      height: 700px!important;
+      object-fit: cover!important;
+    }
+  
+    .navbar {
+      position: fixed; 
+      top: 0; 
+      width: 100%; 
+    }
+  
+  
+  .fa {
+    padding: 40px;
+    font-size: 50px;
+    width: 80px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  
+.fa-linkedin {
+  background: #8fccf5;
+  color: rgb(254, 254, 255);
+}
